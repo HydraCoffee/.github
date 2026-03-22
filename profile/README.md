@@ -6,13 +6,13 @@
 
 <h2>Integrantes</h2>
 
-- André Nogueira Pissuto – 03261021
-- Bruna Marcelino – 03261058
-- Giulia Gomes Teixeira – 03261036
-- Matheus da Silva Gonçalves – 03261013
-- Matheus Muniz da Silva – 03261030
-- Nicolas Ferro – 03261041
-- Rodrigo Keiji Suguiura – 03261044
+- Alexandre Tabacchi – 03261068 
+- Ashley Meneses Silva – 03261072 
+- José Daniel Alicrim – 03261071 
+- Lenny Stephano – 03261004 
+- Matheus Rocha – 03261061 
+- Thor Secco – 03261059 
+
 
 ---
 
