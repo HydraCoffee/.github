@@ -53,7 +53,7 @@ O SafraControl realiza:
 
 <h2> Documento de Regras do Time </h2>
 
-  <h3><b>REGRAS DO GRUPO</b></h3>  
+  <h3><b>REGRAS DO TIME</b></h3>  
 
   - As sprints ocorrerão a cada 7 dias, acontecendo todas as terça-feira após 15 minutos do término das aulas do dia. 
   - Quem não comparecer sem justificativa, e não justificar possíveis atrasos não poderá dar opiniões e decidir assuntos já discutidos nas reuniões. 
