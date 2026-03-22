@@ -51,17 +51,17 @@ O SafraControl realiza:
 
 ---
 
-<h2> Documento de Regras do Time <h2>
+<h2> Documento de Regras do Time </h2>
 
-  <h3><b>REGRAS DO GRUPO<b><h3>  
+  <h3><b>REGRAS DO GRUPO</b></h3>  
 
-  -- As sprints ocorrerão a cada 7 dias, acontecendo todas as terça-feira após 15 minutos do término das aulas do dia. 
-  -- Quem não comparecer sem justificativa, e não justificar possíveis atrasos não poderá dar opiniões e decidir assuntos já discutidos nas reuniões. 
-  -- Revisão em grupo. Antes de qualquer entrega final, o conteúdo deve ser revisado por pelo menos outro integrante do grupo.
-  -- Todos os integrantes do grupo devem colaborar para resolver dificuldades de qualquer integrante do grupo referente as entregas. 
-  -- Todos os integrantes devem cumprir os prazos definidos nas sprints. Em caso de imprevistos, comunicar o grupo com antecedência.
-  -- Cada integrante deve ter suas responsabilidades bem definidas em cada sprint, evitando sobrecarga ou tarefas duplicadas.
-  -- Os membros devem acompanhar os canais de comunicação do grupo (WhatsApp, Discord, etc.) e responder dentro de um prazo razoável.
-  -- Todas as tarefas realizadas devem ser registradas (ex: no Trello, Notion ou documento compartilhado) para acompanhamento do progresso.
-  -- É obrigatório manter respeito nas discussões, aceitando opiniões diferentes e evitando conflitos desnecessários.
-  -- A cada reunião um integrante diferente da equipe será responsável para a execução da ata.
+  - As sprints ocorrerão a cada 7 dias, acontecendo todas as terça-feira após 15 minutos do término das aulas do dia. 
+  - Quem não comparecer sem justificativa, e não justificar possíveis atrasos não poderá dar opiniões e decidir assuntos já discutidos nas reuniões. 
+  - Revisão em grupo. Antes de qualquer entrega final, o conteúdo deve ser revisado por pelo menos outro integrante do grupo.
+  - Todos os integrantes do grupo devem colaborar para resolver dificuldades de qualquer integrante do grupo referente as entregas. 
+  - Todos os integrantes devem cumprir os prazos definidos nas sprints. Em caso de imprevistos, comunicar o grupo com antecedência.
+  - Cada integrante deve ter suas responsabilidades bem definidas em cada sprint, evitando sobrecarga ou tarefas duplicadas.
+  - Os membros devem acompanhar os canais de comunicação do grupo (WhatsApp, Discord, etc.) e responder dentro de um prazo razoável.
+  - Todas as tarefas realizadas devem ser registradas (ex: no Trello, Notion ou documento compartilhado) para acompanhamento do progresso.
+  - É obrigatório manter respeito nas discussões, aceitando opiniões diferentes e evitando conflitos desnecessários.
+  - A cada reunião um integrante diferente da equipe será responsável para a execução da ata.
