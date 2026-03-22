@@ -48,3 +48,20 @@ O SafraControl realiza:
 - Análise de dados em tempo real
 - Alertas para necessidade de irrigação
 - Relatórios para apoio à tomada de decisão
+
+---
+
+<h2> Documento de Regras do Time <h2>
+
+  <h3><b>REGRAS DO GRUPO<b><h3>  
+ 
+1.	As sprints ocorrerão a cada 7 dias, acontecendo todas as terça-feira após 15 minutos do término das aulas do dia. 
+2.	Quem não comparecer sem justificativa, e não justificar possíveis atrasos não poderá dar opiniões e decidir assuntos já discutidos nas reuniões. 
+3.	Revisão em grupo. Antes de qualquer entrega final, o conteúdo deve ser revisado por pelo menos outro integrante do grupo.
+4.	Todos os integrantes do grupo devem colaborar para resolver dificuldades de qualquer integrante do grupo referente as entregas. 
+5.  Todos os integrantes devem cumprir os prazos definidos nas sprints. Em caso de imprevistos, comunicar o grupo com antecedência.
+6.	Cada integrante deve ter suas responsabilidades bem definidas em cada sprint, evitando sobrecarga ou tarefas duplicadas.
+7.	Os membros devem acompanhar os canais de comunicação do grupo (WhatsApp, Discord, etc.) e responder dentro de um prazo razoável.
+8.	Todas as tarefas realizadas devem ser registradas (ex: no Trello, Notion ou documento compartilhado) para acompanhamento do progresso.
+9.	É obrigatório manter respeito nas discussões, aceitando opiniões diferentes e evitando conflitos desnecessários.
+10.	A cada reunião um integrante diferente da equipe será responsável para a execução da ata.
